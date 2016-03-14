@@ -3,12 +3,14 @@ layout: post
 title: Loop Unrolling
 ---
 
-#Loop Unrolling (循环展开)#
+# Loop Unrolling (循环展开) #
 
 ## Refs ##
+
 * http://www.cs.umd.edu/~meesh/cmsc411/website/proj01/proja/loop.html
 
 ## Problem Definition ##
+
 **怎样最快的求出1,000,000个数的加法？**
 
 一眼就知道直接$O(n)$就可以
