@@ -7,8 +7,8 @@ title: Loop Unrolling
 
 ## Refs ##
 
-* http://www.cs.umd.edu/~meesh/cmsc411/website/proj01/proja/loop.html
-* http://www.keil.com/support/man/docs/armcc/armcc_chr1359124222660.htm
+* [Tutorial 1](http://www.cs.umd.edu/~meesh/cmsc411/website/proj01/proja/loop.html)
+* [Tutorial 2](http://www.keil.com/support/man/docs/armcc/armcc_chr1359124222660.htm)
 
 ## Problem Definition ##
 
@@ -21,6 +21,7 @@ for (int i=0; i<=1000000; i ++) {
   sum += a[i];
 }
 ```
+
 这已经是复杂度的下限了，还可以怎么优化？
 
 Loop Unrolling是一个很简单的编译器优化，相当直接却特别有效。当然，它也是我们理解更高级的优化的基础。
@@ -31,6 +32,9 @@ Loop Unrolling是一个很简单的编译器优化，相当直接却特别有效
 
 ## Why we need it? ##
 
+### Reason I ###
+: from [Tutorial 2](http://www.keil.com/support/man/docs/armcc/armcc_chr1359124222660.htm)
+
 我们用汇编来描述这段代码，假设R1寄存器存着数组a的基地址， R2里存着sum， R3从1,000,000开始。
 
 ```
@@ -38,6 +42,7 @@ Loop: LW R4, 0(R1);     //element of a
 ADD R3, R3, R4
 ADDI R1, R1, #4
 ```
+
 ## How does it work? ##
 
 ## Examples ##
