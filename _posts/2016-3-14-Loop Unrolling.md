@@ -35,6 +35,7 @@ for (int i=0; i<=1000000; i ++) {
 ### Reason I ###
 : from [Tutorial 2](http://www.keil.com/support/man/docs/armcc/armcc_chr1359124222660.htm)
 
+#?如何在kramdown里嵌入css. ?如何分出两栏
 
 #block_container
 {
