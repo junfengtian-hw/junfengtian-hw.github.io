@@ -22,8 +22,8 @@ On April 7, everybody will come to class. Half the class will present their spee
 Grading Criteria
 
 
-	| Pronunciation	| Speech content | Presentation
-Excellent (4)	| -speaks clearly and loudly | -Speech is well organized.-Content is accurate | -stands up straight
+		| Pronunciation			| Speech content 	| Presentation 
+Excellent (4)	| -speaks clearly and loudly 	| -Speech is well organized.-Content is accurate | -stands up straight
 		|  -Pronunciation sounds natural. | -examples make sense. | -looks directly at audience
 		|  -Student speaks very fluidly, with no long pauses or hesitation | - Speaker explains slang word AND provides details that are interesting and relevant. | -does not use note cards
 		|	|	| -does not use note cards
