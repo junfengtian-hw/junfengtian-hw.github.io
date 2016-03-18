@@ -22,19 +22,16 @@ On April 7, everybody will come to class. Half the class will present their spee
 Grading Criteria
 
 
-	Pronunciation	Speech content	Presentation
-Excellent (4)	-speaks clearly and loudly
--Pronunciation sounds natural. 
-- Student speaks very fluidly, with no long pauses or hesitation.
-	-Speech is well organized.
--Content is accurate
--examples make sense.
-- Speaker explains slang word AND provides details that are interesting and relevant.
-	-stands up straight
--looks directly at audience
--does not use note cards
-- has a PPT that is very clear. (in class only)
-- Speech is 3-4 minutes 
+	| Pronunciation	| Speech content | Presentation
+Excellent (4)	| -speaks clearly and loudly | -Speech is well organized.-Content is accurate | -stands up straight
+		|  -Pronunciation sounds natural. | -examples make sense. | -looks directly at audience
+		|  -Student speaks very fluidly, with no long pauses or hesitation | - Speaker explains slang word AND provides details that are interesting and relevant. | -does not use note cards
+		|	|	| -does not use note cards
+		|	|	| - has a PPT that is very clear. (in class only)
+		|	|	| - Speech is 3-4 minutes 
+		
+
+
 
 Good (3)	-mostly speaks loud and clear
 -some problems with pronunciation, but they do not prevent communication.
